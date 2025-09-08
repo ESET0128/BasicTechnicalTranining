@@ -1,4 +1,4 @@
-# BasicTechnicalTranining
+# Python Assignmnet 1
 
 This program is calculating the area of rectangle / or sqaure.
 
