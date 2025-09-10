@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "author": "Reetu Raj Chauhan",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-arduino-uno", "id": "uno", "top": 96.6, "left": -10.2, "attrs": {} },
+    { "type": "wokwi-led", "id": "led1", "top": -90, "left": 138.2, "attrs": { "color": "red" } }
+  ],
+  "connections": [
+    [ "led1:C", "uno:GND.1", "green", [ "v86.4", "h-67.1" ] ],
+    [ "led1:A", "uno:4", "green", [ "v96", "h24.9" ] ]
+  ],
+  "dependencies": {}
+}
